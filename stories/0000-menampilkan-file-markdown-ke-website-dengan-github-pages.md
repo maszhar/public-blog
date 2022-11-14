@@ -12,13 +12,13 @@ Untuk mengaktifkan fiturnya, ikuti langkah-langkah berikut:
 
    Tab `Settings` berisi beberapa konfigurasi repository yang salah satunya adalah `Pages`.
 
-   ![Repository blog](assets/0000/repository-blog.jpg)
+   ![Repository blog](assets/0000/repository-blog.webp)
 
 3. Klik bagian `Pages`.
 
    Bagian `Pages` berisi konfigurasi untuk mengaktifkan dan mengatur fitur pages pada repository GitHub.
 
-   ![Halaman repository settings](assets/0000/repository-settings.jpg)
+   ![Halaman repository settings](assets/0000/repository-settings.webp)
 
 4. Tentukan sumber publikasi.
 
@@ -26,13 +26,13 @@ Untuk mengaktifkan fiturnya, ikuti langkah-langkah berikut:
 
    Klik tombol `Save` untuk menyimpan konfigurasi.
 
-   ![Setting pages](assets/0000/repository-settings-page.jpg)
+   ![Setting pages](assets/0000/repository-settings-page.webp)
 
 5. Refresh halaman website.
 
    Link blog yang dapat diakses melalui internet akan ditampilkan pada halaman ini. Proses ini memerlukan waktu beberapa saat, jadi lakukan *refresh* secara berkala jika link belum ditampilkan.
 
-   ![Link blog](assets/0000/blog-link.jpg)
+   ![Link blog](assets/0000/blog-link.webp)
 
 6. Buka salah satu konten dengan link yang disediakan.
 
@@ -44,4 +44,4 @@ Untuk mengaktifkan fiturnya, ikuti langkah-langkah berikut:
    https://maszhar.github.io/public-blog/intro
    ```
 
-   ![Contoh tampilan blog](assets/0000/tampilan-blog.jpg)
+   ![Contoh tampilan blog](assets/0000/tampilan-blog.webp)
