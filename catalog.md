@@ -12,4 +12,12 @@
 
 ## Artikel
 
+- [No Data]
+
 ## Tutorial
+
+### Development
+
+#### Android
+
+- [Bagaimana Cara Install Termux di Android?](tutorials/7001-bagaimana-cara-instal-termux-di-android.md)
