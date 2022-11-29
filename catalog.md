@@ -2,6 +2,7 @@
 
 ## Stories
 
+- [Beli VPS murah di Marketplace](stories/0007-beli-vps-murah-di-marketplace.md)
 - [Arsitektur Project Markdown Blog](stories/0006-arsitektur-project-markdown-blog.md)
 - [Mendaftarkan Domain maszhar.dev pada Google Search Engine](stories/0005-mendaftarkan-domain-maszhar-dev-pada-google-search-engine.md)
 - [Rancangan Project Markdown Blog](stories/0004-rancangan-project-markdown-blog.md)
