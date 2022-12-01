@@ -22,3 +22,9 @@
 #### Android
 
 - [Bagaimana Cara Install Termux di Android?](tutorials/7001-bagaimana-cara-instal-termux-di-android.md)
+
+## Setup
+
+### Ubuntu
+
+- [Bagaimana Cara Upgrade Ubuntu 20.04 ke 22.04](tutorials/7002-bagaimana-cara-upgrade-ubuntu-2004-ke-2204.md)
